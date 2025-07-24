@@ -19,7 +19,7 @@ tech_stack = {
 ```
 
 ## GitHub Stats
-![Zakarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakaryael&show_icons=true&theme=dark)
+![Zakarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakaryael&show_icons=true&theme=dark&count_private=true)
 
 ---
 
